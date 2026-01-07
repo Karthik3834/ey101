@@ -1,5 +1,5 @@
 class GitDemo{
-	public static void main(String[] h){
+	public static void main(String[] args){
 		System.out.println("Welcome to Git");
 	}
 }
